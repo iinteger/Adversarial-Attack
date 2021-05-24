@@ -70,7 +70,7 @@
 
       <img src="images/limited blackbox.png"/>
 
-      ​	
+      	
 
   * #### 점수 기반 블랙박스 방법
 
